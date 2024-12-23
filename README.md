@@ -1,5 +1,4 @@
-## Hi there 👋
-
+### WELCOME TO MY GITHUB PROFILE
 ## 👋 About Me
 Welcome to my GitHub! I'm an entry-level Data Scientist and passionate researcher with a solid foundation in Python, SQL, machine learning, and deep learning. My journey bridges the gap between academic excellence and practical problem-solving, as I strive to leverage data-driven approaches to tackle real-world challenges.
 
