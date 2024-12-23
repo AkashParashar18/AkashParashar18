@@ -9,11 +9,11 @@ A keen interest in exploring cutting-edge solutions in domains like artificial i
 ## 📂 Projects
 Here are some of my key projects that showcase my skills and interests:
 
-Airport Authority Data Analysis: An in-depth analysis of multi-year airport data to uncover trends in flight delays, cancellations, and seasonal variations.
-Movie Sales Visualization: Visualization and analysis of IMDB’s top 1,000 movies, exploring genre trends, financial performance, and the impact of directors and actors.
-Global Energy Trade Analysis: Insights into global energy trends using the Energy Statistics Database, focusing on renewable energy growth and economic correlations.
-Similarity Scoring for Resume and Job Descriptions: Development of an optimized ATS system to match resumes with job descriptions using Python and Streamlit.
-Intelligent Intrusion and Anomaly Detection in SAPM Systems: Securing smart air pollution monitoring systems against cyber threats and ensuring data integrity.
+### Airport Authority Data Analysis: An in-depth analysis of multi-year airport data to uncover trends in flight delays, cancellations, and seasonal variations.
+### Movie Sales Visualization: Visualization and analysis of IMDB’s top 1,000 movies, exploring genre trends, financial performance, and the impact of directors and actors.
+### Global Energy Trade Analysis: Insights into global energy trends using the Energy Statistics Database, focusing on renewable energy growth and economic correlations.
+### Similarity Scoring for Resume and Job Descriptions: Development of an optimized ATS system to match resumes with job descriptions using Python and Streamlit.
+### Intelligent Intrusion and Anomaly Detection in SAPM Systems: Securing smart air pollution monitoring systems against cyber threats and ensuring data integrity.
 ## 💡 Research Interests
 Electric Vehicles: Author of a thesis on "Design and Control of a Data-Driven Electric Vehicle Charging Station."
 Cybersecurity: Focused on anomaly detection and securing IoT systems.
