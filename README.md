@@ -1,7 +1,7 @@
 # WELCOME TO MY GITHUB PROFILE
 
 ## 👋 About Me
-Welcome to my GitHub! I'm an entry-level Data Scientist and passionate researcher with a solid foundation in Python, SQL, machine learning, and deep learning. My journey bridges the gap between academic excellence and practical problem-solving, as I strive to leverage data-driven approaches to tackle real-world challenges.
+Welcome to my GitHub! I'm an entry-level Data Scientist and passionate researcher with a solid foundation in Statistics, Python, SQL, Power BI, machine learning, and deep learning. My journey bridges the gap between academic excellence and practical problem-solving, as I strive to leverage data-driven approaches to tackle real-world challenges.
 
 ## 🌟 Highlights
 M.Tech in Power Electronics and Drives from Odisha University of Technology and Research, Bhubaneswar.
@@ -32,7 +32,10 @@ Author of a thesis on "Design and Control of a Data-Driven Electric Vehicle Char
 ### Cybersecurity: 
 Focused on anomaly detection and securing IoT systems.
 ### AI-Powered Solutions: 
-Currently working on projects integrating advanced AI techniques like Llama2 for chatbot development.
+Currently working on projects integrating advanced AI techniques like Llama3 for chatbot development.
 
 ## 🚀 Let's Connect
 I'm always looking to collaborate on exciting projects and research opportunities. Feel free to explore my repositories and connect with me!
+Gmail: mundakashranjan@gmail.com
+Phone: +917327902113
+Portfolio: https://www.datascienceportfol.io/akashmund18
