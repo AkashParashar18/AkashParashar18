@@ -27,8 +27,16 @@ Development of an optimized ATS system to match resumes with job descriptions us
 Securing smart air pollution monitoring systems against cyber threats and ensuring data integrity.
 
 ## 💡 Research Interests
-### Electric Vehicles: 
-Author of a thesis on "Design and Control of a Data-Driven Electric Vehicle Charging Station."
+### Reinforcement learning for roboics and autonomous systems, focusing on safe,
+sample-efficient, and scalable learning methods.
+### AI in autonomous decision-making, particularly in contexts such as human–robot
+collaboraion, sustainable automaion, and intelligent mobility.
+### Conversaional AI and dialogue systems, including task-oriented and open-domain
+chatbots.
+### Language modeling and representaion learning, exploring advanced transformerbased
+architectures and embedding techniques.
+### Informaion extracion and semanic understanding, focusing on applicaions in
+healthcare, educaion, public speaking, and decision support systems.
 ### Cybersecurity: 
 Focused on anomaly detection and securing IoT systems.
 ### AI-Powered Solutions: 
