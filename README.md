@@ -1,12 +1,12 @@
 # WELCOME TO MY GITHUB PROFILE
 
 ## 👋 About Me
-Welcome to my GitHub! I'm an entry-level Data Scientist and passionate researcher with a solid foundation in Statistics, Python, SQL, Power BI, machine learning, and deep learning. My journey bridges the gap between academic excellence and practical problem-solving, as I strive to leverage data-driven approaches to tackle real-world challenges.
+Welcome to my GitHub! I'm a passionate researcher with a solid foundation in Statistics, Python, SQL, Power BI, machine learning, NLP, and deep learning. My journey bridges the gap between academic excellence and practical problem-solving, as I strive to leverage data-driven approaches to tackle real-world challenges.
 
 ## 🌟 Highlights
 M.Tech in Power Electronics and Drives from Odisha University of Technology and Research, Bhubaneswar.
 Strong expertise in data analysis, visualization, and predictive modeling using tools like Matplotlib, Seaborn, and Power BI.
-A keen interest in exploring cutting-edge solutions in domains like artificial intelligence, data science, and smart systems.
+A keen interest in exploring cutting-edge solutions in domains like artificial intelligence, machine intelligence, reinforcement learning, data science, and smart autonomous systems.
 
 ## 📂 Projects
 Here are some of my key projects that showcase my skills and interests:
@@ -37,5 +37,4 @@ Currently working on projects integrating advanced AI techniques like Llama3 for
 ## 🚀 Let's Connect
 I'm always looking to collaborate on exciting projects and research opportunities. Feel free to explore my repositories and connect with me!
 Gmail: mundakashranjan@gmail.com
-Phone: +917327902113
 Portfolio: https://www.datascienceportfol.io/akashmund18
