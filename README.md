@@ -1,7 +1,7 @@
 # WELCOME TO MY GITHUB PROFILE
 
 ## 👋 About Me
-Welcome to my GitHub! I'm a passionate researcher with a solid foundation in Statistics, Python, SQL, Power BI, machine learning, NLP, and deep learning. My journey bridges the gap between academic excellence and practical problem-solving, as I strive to leverage data-driven approaches to tackle real-world challenges.
+Welcome to my GitHub! I'm a passionate researcher with a solid foundation in Statistics, Python, SQL, Power BI, machine learning, NLP, deep learning, cybersecurity. My journey bridges the gap between academic excellence and practical problem-solving, as I strive to leverage data-driven approaches to tackle real-world challenges.
 
 ## 🌟 Highlights
 M.Tech in Power Electronics and Drives from Odisha University of Technology and Research, Bhubaneswar.
@@ -38,7 +38,8 @@ architectures and embedding techniques.
 ### Informaion extracion and semanic understanding, focusing on applicaions in
 healthcare, educaion, public speaking, and decision support systems.
 ### Cybersecurity: 
-Focused on anomaly detection and securing IoT systems.
+Zero-day threat detection, anomaly detection, secure systems
+Machine Learning for Security: Deep learning, adversarial robustness
 ### AI-Powered Solutions: 
 Currently working on projects integrating advanced AI techniques like Llama3 for chatbot development.
 
