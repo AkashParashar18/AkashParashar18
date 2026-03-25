@@ -31,8 +31,10 @@ Securing smart air pollution monitoring systems against cyber threats and ensuri
 Zero-day threat detection, anomaly detection, secure systems
 ### Machine Learning for Security: 
 Deep learning, adversarial robustness
-### AI in autonomous decision-making, particularly in contexts such as human–robot
-collaboraion, sustainable automaion, and intelligent mobility.
+### Distributed Systems Security: 
+Federated learning, privacy-preserving systems
+### Data Science: 
+Large-scale data analysis for threat detection
 ### Conversaional AI and dialogue systems, including task-oriented and open-domain
 chatbots.
 ### Language modeling and representaion learning, exploring advanced transformerbased
