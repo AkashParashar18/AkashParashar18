@@ -1,50 +1,107 @@
-# WELCOME TO MY GITHUB PROFILE
+<!-- Header banner -->
+<div align="center">
 
-## 👋 About Me
-Welcome to my GitHub! I'm a passionate researcher with a solid foundation in Statistics, Python, SQL, Power BI, machine learning, NLP, deep learning, cybersecurity. My journey bridges the gap between academic excellence and practical problem-solving, as I strive to leverage data-driven approaches to tackle real-world challenges.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Akash%20Ranjan%20Mund&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Ethical%20Hacking%20%7C%20AI%20for%20InfoSec&descAlignY=58&descSize=16" alt="Akash Ranjan Mund banner" />
 
-## 🌟 Highlights
-M.Tech in Power Electronics and Drives from Odisha University of Technology and Research, Bhubaneswar.
-Strong expertise in data analysis, visualization, and predictive modeling using tools like Matplotlib, Seaborn, and Power BI.
-A keen interest in exploring cutting-edge solutions in domains like artificial intelligence, machine intelligence, reinforcement learning, data science, and smart autonomous systems.
+<a href="https://github.com/AkashParashar18">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=640&lines=Cybersecurity+Researcher;Ethical+Hacker;Zero-day+%26+Anomaly+Detection;Adversarial+ML+%7C+Critical+Infrastructure+Security;Building+SOC+labs+in+the+cloud" alt="Typing animation" />
+</a>
 
-## 📂 Projects
-Here are some of my key projects that showcase my skills and interests:
+</div>
 
-### Airport Authority Data Analysis: 
-An in-depth analysis of multi-year airport data to uncover trends in flight delays, cancellations, and seasonal variations.
+---
 
-### Movie Sales Visualization: 
-Visualization and analysis of IMDB’s top 1,000 movies, exploring genre trends, financial performance, and the impact of directors and actors.
+## 👋 About me
 
-### Global Energy Trade Analysis: 
-Insights into global energy trends using the Energy Statistics Database, focusing on renewable energy growth and economic correlations.
+I'm an electrical engineer turned **cybersecurity researcher and ethical hacker**. My background in power electronics and drives (M.Tech, OUTR Bhubaneswar) gave me a feel for how critical infrastructure actually works. Machine learning and data science (AI & ML and Data Science internships) gave me the tools to defend it.
 
-### Similarity Scoring for Resume and Job Descriptions: 
-Development of an optimized ATS system to match resumes with job descriptions using Python and Streamlit.
+I like the place where **AI meets InfoSec**: detecting threats nobody has seen before, and understanding how ML systems themselves can be attacked.
 
-### Intelligent Intrusion and Anomaly Detection in SAPM Systems: 
-Securing smart air pollution monitoring systems against cyber threats and ensuring data integrity.
+---
 
-## 💡 Research Interests
-### Cybersecurity: 
-Zero-day threat detection, anomaly detection, secure systems
-### Machine Learning for Security: 
-Deep learning, adversarial robustness
-### Distributed Systems Security: 
-Federated learning, privacy-preserving systems
-### Data Science: 
-Large-scale data analysis for threat detection
-### Conversaional AI and dialogue systems, including task-oriented and open-domain
-chatbots.
-### Language modeling and representaion learning, exploring advanced transformerbased
-architectures and embedding techniques.
-### Informaion extracion and semanic understanding, focusing on applicaions in
-healthcare, educaion, public speaking, and decision support systems.
-### AI-Powered Solutions: 
-Currently working on projects integrating advanced AI techniques like Llama3 for chatbot development.
+## 🎯 Focus areas
 
-## 🚀 Let's Connect
-I'm always looking to collaborate on exciting projects and research opportunities. Feel free to explore my repositories and connect with me!
-Gmail: mundakashranjan@gmail.com
-Portfolio: https://www.datascienceportfol.io/akashmund18
+| | |
+|---|---|
+| 🛡️ **Threat detection** | Zero-day threats, anomaly detection, SOC / SIEM workflows |
+| 🤖 **ML for security** | Deep learning for intrusion detection, adversarial robustness |
+| 🏭 **Critical infrastructure** | Securing cyber-physical and industrial systems |
+| 🔐 **Privacy-preserving systems** | Federated learning, distributed systems security |
+| 📊 **Data science** | Large-scale analysis for threat detection |
+
+---
+
+## 🔨 Currently building: SOC lab series
+
+Hands-on detection engineering projects, each documented end to end.
+
+| Project | Stack | Status |
+|---|---|---|
+| ☁️ **Cloud SOC** | Microsoft Azure + Sentinel | 🚧 In progress |
+| 💻 **Endpoint SOC** | Wazuh + Sysmon | 🚧 In progress |
+| ⚙️ **Automation SOC** | Shuffle + APIs | 🚧 In progress |
+
+<!-- When a repo is live, link it: | ☁️ [**Cloud SOC**](https://github.com/AkashParashar18/REPO-NAME) | ... | ✅ Done | -->
+
+---
+
+## 🧪 Selected projects
+
+| Project | What it does |
+|---|---|
+| 🛰️ **Intelligent Intrusion & Anomaly Detection in SAPM Systems** | Secures smart air pollution monitoring systems against cyber threats and protects data integrity |
+| 📄 [**Resume–Job Description Similarity Scoring**](https://github.com/AkashParashar18/Similarity-Scoring-for-Resume-and-Job-Descriptions) | ATS-style matcher that scores resumes against job descriptions (Python + Streamlit) |
+| 🔢 [**MNIST Evaluation using CNN**](https://github.com/AkashParashar18/MNIST_Evaluation_Using_CNN) | CNN training and evaluation on MNIST, a foundation for adversarial ML experiments |
+| 🔒 [**cybersecurity**](https://github.com/AkashParashar18/cybersecurity) | Notes, labs and resources from my security learning path |
+
+---
+
+## ✍️ Writing
+
+Working on a 24-chapter cybersecurity guide for students and aspiring professionals.
+
+---
+
+## 🧰 Tech & tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Azure](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Shuffle](https://img.shields.io/badge/Shuffle_SOAR-FF8C37?style=for-the-badge)
+
+**Concepts:** Statistics · Machine Learning · Deep Learning · NLP · Networking · Operating Systems · Threat Detection
+
+<!-- Add more badges here for tools you actually use, e.g. Kali Linux, Wireshark, Burp Suite, Nmap -->
+
+---
+
+## 📈 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AkashParashar18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashParashar18&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+## 📫 Let's connect
+
+I'm open to collaborating on security research, detection engineering, and AI-for-security projects.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-mundakashranjan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mundakashranjan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-datascienceportfol.io-00E5A0?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.datascienceportfol.io/akashmund18)
+<!-- Add your LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) -->
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="footer" />
